@@ -25,7 +25,7 @@ Nível de preços : Padrão S0.
 Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo : Selecionado .
 
 Selecione Revisar + criar e depois Criar e aguarde a conclusão da implantação.
-
+![](https://github.com/DevRipp/LAB-Reconhecimento-Facial/blob/main/LAB%20-%20imagem1.png)
 ### Conecte seu recurso de serviço de IA do Azure ao Vision Studio
 #### Em seguida, conecte o recurso de serviços de IA do Azure provisionado acima ao Vision Studio.
 
@@ -50,5 +50,5 @@ Selecione Revisar + criar e depois Criar e aguarde a conclusão da implantação
 
 #### Agora vamos tentar com algumas de nossas próprias imagens. Selecione https://aka.ms/mslearn-detect-faces para baixar detect-faces.zip . Em seguida, abra a pasta no seu computador.
 
-
+![](https://github.com/DevRipp/LAB-Reconhecimento-Facial/blob/main/LAB%20-%20imagem2.png)
 
